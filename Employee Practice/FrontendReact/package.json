@@ -1,0 +1,11 @@
+{
+  "name": "projectreact",
+  "version": "1.0.0",
+  "description": "jobpractice",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "root",
+  "license": "ISC"
+}
